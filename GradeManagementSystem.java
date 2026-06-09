@@ -18,12 +18,11 @@ public class GradeManagementSystem {
             choice = sc.nextInt();
 
             switch(choice) {
-                case 1: addStudent(); break;
+                case 1: addStudent();break;
                 case 2: displayAllStudents(); 
 break;
-                case 3: searchStudent(); break;
-                case 4: calculateAverage(); 
-break;
+                case 3: searchStudent();break;
+                case 4: calculateAverage(); break;
                 case 5: System.out.println("Exiting... Thank you!"); 
 break;
                 default: System.out.println("Invalid choice! Try again.");
