@@ -74,6 +74,6 @@ public class GradeManagementSystem {
             total += s.getMarks();
         }
         double avg = total / students.size();
-        System.out.printf("Average Marks:", avg);
+        System.out.printf("Average Marks:"+avg);
     }
 }
