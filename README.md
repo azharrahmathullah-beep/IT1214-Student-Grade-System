@@ -12,7 +12,7 @@ Teachers can store student ID, name, and marks digitally instead of paper.
 5. Use menu 1 to 5 for operations
 
 ## Features
-1. Add Student
-2. Display All Students  
-3. Search Student by ID
-4. Calculate Average Marks
+1. Add new student - ID, Name, Marks
+2. Display all students 
+3. Search student by ID
+4. Calculate average marks of all students
