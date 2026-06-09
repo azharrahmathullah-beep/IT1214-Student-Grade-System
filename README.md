@@ -14,3 +14,4 @@ Teachers can store student ID, name, and marks digitally instead of paper.
 2. Display all students 
 3. Search student by ID
 4. Calculate average marks of all students
+5. Exit
