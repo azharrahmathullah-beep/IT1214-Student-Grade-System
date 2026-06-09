@@ -19,10 +19,13 @@ public class GradeManagementSystem {
 
             switch(choice) {
                 case 1: addStudent(); break;
-                case 2: displayAllStudents(); break;
+                case 2: displayAllStudents(); 
+break;
                 case 3: searchStudent(); break;
-                case 4: calculateAverage(); break;
-                case 5: System.out.println("Exiting... Thank you!"); break;
+                case 4: calculateAverage(); 
+break;
+                case 5: System.out.println("Exiting... Thank you!"); 
+break;
                 default: System.out.println("Invalid choice! Try again.");
             }
         } while(choice != 5);
